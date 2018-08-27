@@ -4,8 +4,8 @@ Plugin Name: Private Site
 Version: 0.2.0
 Description: Keep your WordPress website private.
 Author: CLEANCODED
-Author URI: https://cleancoded.com/
-Plugin URI: https://cleancoded.com/
+Author URI: https://cleancoded.com
+Plugin URI: https://github.com/cleancoded/private-site
 Text Domain: private-site
 */
 
