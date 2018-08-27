@@ -2,7 +2,7 @@
 Contributors: cleancoded
 Tags: private site, private website, private WordPress, private blog
 Requires at least: 3.6
-Tested up to: 4.9
+Tested up to: 4.9.8
 Stable tag: 0.1
 
 Keep your WordPress website private and require all users to be logged in.
